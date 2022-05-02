@@ -103,7 +103,7 @@
     "snyk": "1.914.0",
     "stylelint": "14.8.1",
     "stylelint-config-standard": "25.0.0",
-    "tslib": "^1.10.0",
+    "tslib": "^1.14.1",
     "tslint-eslint-rules": "5.4.0",
     "xmlbuilder": "10.0.0",
     "zone.js": "~0.10.3"
